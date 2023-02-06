@@ -1,10 +1,3 @@
-import aula3_condicionais.exer4;
-import aula3_condicionais.exer5;
-import aula3_condicionais.exer6;
-import aula3_condicionais.exerDois;
-import aula3_condicionais.exerTres;
-import aula3_condicionais.exerUm;
-
 public class App {
     public static void main(String[] args) throws Exception {
         //exerUm aluno_jao = new exerUm();
@@ -22,8 +15,8 @@ public class App {
         //exer5 parImpar = new exer5();
         //parImpar.parImpar();
 
-        exer6 vendedor_joao = new exer6();
-        vendedor_joao.salario();
+        //exer6 vendedor_joao = new exer6();
+        //vendedor_joao.salario();
     }
 
 }
