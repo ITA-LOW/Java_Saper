@@ -1,4 +1,4 @@
-package aula3;
+package aula3_intro;
 public class App {
     public static void main(String[] args) throws Exception {
         //exerUm aluno_jao = new exerUm();

@@ -1,4 +1,4 @@
-package aula4;
+package aula4_intro;
 
 public class Account {
     private String nome;

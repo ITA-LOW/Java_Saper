@@ -1,4 +1,4 @@
-package aula4;
+package aula4_intro;
 import java.util.Scanner;
 
 public class App {
